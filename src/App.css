@@ -117,7 +117,6 @@ body {
 }
 
 .task-item.completed {
-  /* background-color: #d4d4d4; */
   border-bottom: none;
   border-bottom: #333 solid 1px;
   
@@ -138,11 +137,9 @@ body {
 
 .task-item input{
   padding: 5px 10px;
-  /* background-color: #C6DBFA; */
   background-color: #D8E7FD;
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
-  /* font-size: 8px; */
   color: #251369;
   border: none;
   border-radius: 5px;
@@ -152,8 +149,7 @@ body {
 
 .task-item input.completed {
   
-  /* background-color: #C6DBFA; */
-  /* background-color: #d4d4d4; */
+
   background-color: #D8E7FD;
   text-decoration: line-through;
 
@@ -171,11 +167,7 @@ body {
   background-color: #D8E7FD ;
   font-family: 'Kanit', sans-serif;
 }
-/* 
-.task-item.completed input.delete-button {
-  background-color: #d4d4d4;
 
-} */
 
 .task-item input.delete-button:hover {
   background-color: #ff6363;
