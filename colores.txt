@@ -1,0 +1,7 @@
+
+
+
+azul claro = #D8E7FD 
+azul oscuro = #C6DBFA
+azul =  #00BFFF;
+morado oscuro letra = #251369
