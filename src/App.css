@@ -16,7 +16,11 @@ body {
   border-radius: 10px;
   border: solid 1.5px black ;
   position: relative;
-  
+  padding-bottom: 20px;
+}
+
+.checkbox-container {
+  padding-left: 10px;
 }
 
 .container ::after{

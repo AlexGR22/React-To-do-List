@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import TaskList from './Components/TaskList/TaskList';
 import TaskForm from './Components/TaskForm/TaskForm';
 import './App.css';
-import { FaCircle, FaCheckCircle } from "react-icons/fa";
+// import { FaCircle, FaCheckCircle } from "react-icons/fa";
 
 const App = () => {
   // Estado para almacenar las tareas
@@ -71,7 +71,7 @@ const App = () => {
       )}
 
       {/* Checkbox para mostrar/ocultar tareas completadas */}
-      <div>
+      <div className="checkbox-container">
         <input type="checkbox" onChange={(e) => setShowCompleted(!showCompleted)} />
         <label style={{ color: 'black' }}> Mostrar tareas completadas</label>
       </div>
