@@ -18,3 +18,12 @@ Este proyecto es una aplicación web de lista de tareas construida con React. Pe
 
 - Repositorio de GitHub: [https://github.com/AlexGR22/React-To-do-List](https://github.com/AlexGR22/React-To-do-List)
 
+
+## Integrantes del Grupo
+
+- Alexis Rosa
+- Alan Lobeto
+- Daiana Rojas
+- Camila Garcia
+- Eugenia Castagna
+- Matias Nuñez
