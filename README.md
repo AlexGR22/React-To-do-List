@@ -1,4 +1,4 @@
-# Proyecto de Lista de Tareas
+# Proyecto de Lista de Tareas - GRUPO 1
 
 Este proyecto es una aplicación web de lista de tareas construida con React. Permite a los usuarios agregar, marcar como completadas y eliminar tareas. También incluye la opción de mostrar u ocultar las tareas completadas.
 
@@ -13,3 +13,8 @@ Este proyecto es una aplicación web de lista de tareas construida con React. Pe
 
 - React: Biblioteca de JavaScript para construir interfaces de usuario.
 - LocalStorage: API de JavaScript para almacenar datos en el navegador.
+
+## Enlaces
+
+- Repositorio de GitHub: [https://github.com/AlexGR22/React-To-do-List](https://github.com/AlexGR22/React-To-do-List)
+
