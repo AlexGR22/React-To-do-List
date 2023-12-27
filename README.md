@@ -1,4 +1,4 @@
-# Proyecto de Lista de Tareas - GRUPO 1
+# Proyecto de Lista de Tareas React (To-Do List)
 
 Este proyecto es una aplicación web de lista de tareas construida con React. Permite a los usuarios agregar, marcar como completadas y eliminar tareas. También incluye la opción de mostrar u ocultar las tareas completadas.
 
@@ -17,13 +17,3 @@ Este proyecto es una aplicación web de lista de tareas construida con React. Pe
 ## Enlaces
 
 - Repositorio de GitHub: [https://github.com/AlexGR22/React-To-do-List](https://github.com/AlexGR22/React-To-do-List)
-
-
-## Integrantes del Grupo
-
-- Alexis Rosa
-- Alan Lobeto
-- Daiana Rojas
-- Camila Garcia
-- Eugenia Castagna
-- Matias Nuñez
